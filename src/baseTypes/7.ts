@@ -20,4 +20,4 @@ function isWeekend(day: Day): boolean {
     return false;
   }
 }
-export { isWeekend };
+export {};
